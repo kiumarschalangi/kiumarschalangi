@@ -46,7 +46,7 @@ I specialize in **Flutter & Dart**, with 3+ years of experience building scalabl
 - **Tools & Services:** ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
-#### Tools & Services:
+- **Tools & Services:**
   <img alt="Git" src="https://img.shields.io/badge/git-F05033.svg?style=flat-squar&logo=git&labelColor=F05033&logoColor=white"/>
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab-121011.svg?style=flat-squar&logo=gitlab&labelColor=121011&logoColor=white"/>
   <img alt="Sentry" src="https://img.shields.io/badge/Sentry-0052CC.svg?style=flat-squar&logo=sentry&labelColor=0052CC&logoColor=white"/>
