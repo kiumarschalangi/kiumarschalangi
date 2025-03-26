@@ -35,12 +35,17 @@ I specialize in **Flutter & Dart**, with 3+ years of experience building scalabl
 ---
 
 ### 🛠 Tech Stack:
-- **Languages:** ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-- **Frameworks:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
+- **Languages:** 
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-squar&logo=dart&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/java-bc0b19?style=flat-squar&logo=openjdk&logoColor=white"/>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-02569B?style=flat-squar&logo=swift&logoColor=white"/>
+  
+- **Frameworks:**
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-075898?style=flat-squar&logo=flutter&logoColor=white"/>
 - **Databases:** ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
 - **Tools & Services:** ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ### 🔥 Fun Fact: 
-I used to play electric guitar for 5 years and recently picked it up again! 🎸  
+I used to work on aircrafts as a jet engine maintenance engineer.  
