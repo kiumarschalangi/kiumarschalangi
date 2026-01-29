@@ -39,13 +39,13 @@ I specialize in **Flutter & Dart**, with 3+ years of experience building scalabl
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-squar&logo=dart&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/java-bc0b19?style=flat-squar&logo=openjdk&logoColor=white"/>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-02569B?style=flat-squar&logo=swift&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF?style=flat-squar&logo=swift&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF?style=flat-squar&logo=kotlin&logoColor=white"/>
   
   
 - **Frameworks:**
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-075898?style=flat-squar&logo=flutter&logoColor=white"/>
-  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F?style=flat-squar&logo=swift&logoColor=white"/>
-- **Databases:** ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![NodeJs](https://img.shields.io/badge/MongoDB-%234ea94b?style=flat-squar&logo=swift&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-squar&logo=swift&logoColor=white)
+  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F?style=flat-squar&logo=spring&logoColor=white"/>
+- **Databases:** ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=flat-squar&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-squar&logo=neo4j&logoColor=white)
 - **Tools & Services:** ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
