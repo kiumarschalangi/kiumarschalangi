@@ -39,6 +39,8 @@ I specialize in **Flutter & Dart**, with 3+ years of experience building scalabl
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-squar&logo=dart&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/java-bc0b19?style=flat-squar&logo=openjdk&logoColor=white"/>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-02569B?style=flat-squar&logo=swift&logoColor=white"/>
+  <img alt="Swift" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  
   
 - **Frameworks:**
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-075898?style=flat-squar&logo=flutter&logoColor=white"/>
