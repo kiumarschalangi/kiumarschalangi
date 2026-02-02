@@ -6,16 +6,15 @@
 
 # 👋 Hi, I'm Kiumars! 
 
-🚀 **Software Engineer | Mobile Developer | AI & Data Enthusiast**  
+🚀 **Software Engineer | Mobile Developer**  
 
 I specialize in **Flutter & Dart**, with 3+ years of experience building scalable mobile applications. Recently, I’ve started my masters in  in **Computer Science** in Milano and diving into **AI & ML** to merge intelligent systems with app development.  
 
 💡 **What I Bring to the Table:**  
-- ✅ Expert in **Flutter** with clean architecture & maintainable code  
-- ✅ Passion for **AI & Data Science**, exploring ML applications  
+- ✅ Expert in **Flutter** with clean architecture & modular code
+- ✅ Experience as Back-end Java/Kotlin Developer
 - ✅ Strong interest in **automotive tech, aerospace, and fintech**  
 - ✅ Experience building a **leading cryptocurrency exchange** serving millions  
-- ✅ Founder of **Compile and Conquer** – my freelance mobile dev agency  
 
 ---
 
