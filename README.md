@@ -26,9 +26,6 @@ I specialize in **Flutter & Dart**, with 3+ years of experience building scalabl
   <a href="mailto:kiumarsch96@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/kiumars-dev">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
